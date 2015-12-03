@@ -73,6 +73,10 @@ public class Anagrams extends JFrame {
                 new Anagrams().setVisible(true);
             }
         });
+        boolean aprobar=true;
+        if(aprobar){
+            System.out.println("hago un fiesta");
+        }
     }
 
     private int wordIdx = 0;
